@@ -1,6 +1,7 @@
 # nosql_challenge
 Module 12
-# The .JSON file was too large to be uploaded.
+
+The .JSON file was too large to be uploaded.
 
 # Part 1: Database and Jupyter Notebook Set Up
 Use NoSQL_setup_starter.ipynb for this section of the challenge.
